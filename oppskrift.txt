@@ -1,3 +1,7 @@
 2 avokado
+<<<<<<< HEAD
 1/2 s krydder
+=======
+2 s krydder
+>>>>>>> feat/oppskrift
 2 s salt
